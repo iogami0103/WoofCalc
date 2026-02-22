@@ -1,115 +1,152 @@
-# プライバシーポリシー
+# Privacy Policy / プライバシーポリシー
 
-**最終更新日: 2026年2月14日**
-
-## はじめに
-
-Meow Calculator（にゃん電卓）（以下「本アプリ」）は、ユーザーのプライバシーを尊重します。本プライバシーポリシーは、本アプリがどのような情報を収集し、どのように使用するかを説明します。
-
-## 収集する情報
-
-### 1. 個人情報
-本アプリは、ユーザーの個人情報（氏名、メールアドレス、電話番号など）を収集しません。
-
-### 2. 使用状況データ
-本アプリは、Google AdMobを使用して広告を表示します。AdMobは、広告配信のために以下の情報を収集する場合があります：
-- デバイス情報（デバイスモデル、OSバージョン）
-- 広告識別子（IDFA）
-- IPアドレス
-- アプリの使用状況
-
-### 3. アプリ内課金情報
-アプリ内課金（広告削除機能）の購入情報は、Appleによって管理され、本アプリの開発者には共有されません。
-
-## 情報の使用目的
-
-収集された情報は、以下の目的で使用されます：
-- パーソナライズされた広告の表示
-- アプリの改善と最適化
-
-## 第三者サービス
-
-本アプリは、以下の第三者サービスを使用しています：
-
-### Google AdMob
-広告配信サービス。AdMobのプライバシーポリシーは以下をご覧ください：  
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-## データの保存と保護
-
-本アプリは、計算履歴とテーマ設定をデバイス上にローカル保存します。これらのデータは、インターネット経由で送信されることはありません。
-
-## トラッキングの管理
-
-iOS 14.5以降では、App Tracking Transparency（ATT）により、トラッキングを許可するかどうかを選択できます。設定アプリの「プライバシー」→「トラッキング」から、いつでも変更できます。
-
-## お子様のプライバシー
-
-本アプリは、13歳未満のお子様から故意に個人情報を収集することはありません。
-
-## プライバシーポリシーの変更
-
-本プライバシーポリシーは、予告なく変更される場合があります。変更後のプライバシーポリシーは、本ページに掲載されます。
-
-## お問い合わせ
-
-プライバシーに関するご質問がある場合は、App Store Connectのサポートページからお問い合わせください。
+**Last Updated / 最終更新日: 2026-02-22**
 
 ---
 
-# Privacy Policy
+## English
 
-**Last Updated: February 14, 2026**
+### Privacy Policy for Woof Calc
 
-## Introduction
+This Privacy Policy describes how Woof Calc ("we", "our", or "the app") collects, uses, and shares information when you use our mobile application.
 
-Meow Calculator ("the App") respects user privacy. This Privacy Policy explains what information the App collects and how it is used.
+#### Information We Collect
 
-## Information We Collect
+**1. Information You Provide**
+- The app does not require you to create an account or provide personal information
+- All calculator history and theme preferences are stored locally on your device
 
-### 1. Personal Information
-The App does not collect personal information (name, email, phone number, etc.).
+**2. Automatically Collected Information**
+- **Advertising Data**: We use Google AdMob to display advertisements. AdMob may collect device information, advertising identifiers, and usage data for personalized advertising. For more information, please see Google's Privacy Policy: https://policies.google.com/privacy
+- **In-App Purchase Data**: We use Apple's StoreKit for in-app purchases. Apple processes payment information according to their Privacy Policy: https://www.apple.com/legal/privacy/
 
-### 2. Usage Data
-The App uses Google AdMob to display advertisements. AdMob may collect:
-- Device information (model, OS version)
-- Advertising identifier (IDFA)
-- IP address
-- App usage data
+#### How We Use Information
 
-### 3. In-App Purchase Information
-In-app purchase information (ad removal feature) is managed by Apple and not shared with the developer.
+- **Local Data**: Calculator history and settings are stored only on your device and are not transmitted to our servers
+- **Advertising**: AdMob uses collected data to show relevant advertisements and measure ad performance
+- **Analytics**: We do not collect analytics data about your calculator usage
 
-## How We Use Information
+#### Third-Party Services
 
-Collected information is used for:
-- Displaying personalized advertisements
-- Improving and optimizing the app
+The app uses the following third-party services:
+- **Google AdMob**: For displaying advertisements
+- **Apple StoreKit**: For processing in-app purchases
 
-## Third-Party Services
+These services have their own privacy policies and may collect information as described in their respective policies.
 
-The App uses the following third-party services:
+#### Data Retention
 
-### Google AdMob
-Ad delivery service. See AdMob's privacy policy:  
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+- All calculator data is stored locally on your device
+- Deleting the app will permanently remove all locally stored data
+- Advertising data is retained according to Google AdMob's policies
 
-## Data Storage and Security
+#### Children's Privacy
 
-The App stores calculation history and theme settings locally on your device. This data is never transmitted over the internet.
+The app is rated 4+ and does not knowingly collect personal information from children. Advertising shown through AdMob complies with children's privacy regulations.
 
-## Managing Tracking
+#### Your Rights
 
-On iOS 14.5+, App Tracking Transparency (ATT) allows you to control tracking. You can change this anytime in Settings > Privacy > Tracking.
+You can:
+- Control ad personalization through your device settings (Settings > Privacy > Advertising)
+- Delete all app data by uninstalling the app
+- Opt out of personalized ads via iOS Privacy settings
 
-## Children's Privacy
+#### Changes to This Policy
 
-The App does not knowingly collect personal information from children under 13.
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date.
 
-## Changes to Privacy Policy
+#### Contact Us
 
-This Privacy Policy may be updated without notice. Updates will be posted on this page.
+If you have questions about this Privacy Policy, please contact us at:
+i.ogami.0103@gmail.com
 
-## Contact
+---
 
-For privacy questions, please contact us through the App Store Connect support page.
+## 日本語
+
+### ワンワン計算機 プライバシーポリシー
+
+本プライバシーポリシーは、ワンワン計算機（以下「本アプリ」）が、ユーザーの情報をどのように収集、使用、共有するかについて説明します。
+
+#### 収集する情報
+
+**1. ユーザーが提供する情報**
+- 本アプリはアカウント作成や個人情報の入力を必要としません
+- 計算履歴やテーマ設定は、すべてお客様のデバイス内にローカル保存されます
+
+**2. 自動的に収集される情報**
+- **広告データ**: 本アプリはGoogle AdMobを使用して広告を表示します。AdMobは、パーソナライズド広告のために、デバイス情報、広告識別子、使用状況データを収集する場合があります。詳細はGoogleのプライバシーポリシーをご覧ください: https://policies.google.com/privacy?hl=ja
+- **アプリ内課金データ**: 本アプリはAppleのStoreKitを使用してアプリ内課金を処理します。支払い情報はAppleのプライバシーポリシーに従って処理されます: https://www.apple.com/jp/legal/privacy/
+
+#### 情報の使用方法
+
+- **ローカルデータ**: 計算履歴や設定は、お客様のデバイス内にのみ保存され、外部サーバーには送信されません
+- **広告**: AdMobは収集したデータを使用して、関連性の高い広告を表示し、広告パフォーマンスを測定します
+- **分析**: 本アプリは、お客様の計算機使用状況に関する分析データを収集しません
+
+#### 第三者サービス
+
+本アプリは以下の第三者サービスを使用しています：
+- **Google AdMob**: 広告表示のため
+- **Apple StoreKit**: アプリ内課金処理のため
+
+これらのサービスは独自のプライバシーポリシーを持ち、それぞれのポリシーに記載された情報を収集する場合があります。
+
+#### データの保持
+
+- すべての計算機データは、お客様のデバイス内にローカル保存されます
+- アプリを削除すると、ローカルに保存されたすべてのデータが完全に削除されます
+- 広告データは、Google AdMobのポリシーに従って保持されます
+
+#### お子様のプライバシー
+
+本アプリは4歳以上を対象としており、お子様の個人情報を意図的に収集することはありません。AdMobを通じて表示される広告は、児童プライバシー規制に準拠しています。
+
+#### お客様の権利
+
+お客様は以下のことができます：
+- デバイスの設定から広告のパーソナライゼーションを制御する（設定 > プライバシー > 広告）
+- アプリをアンインストールすることで、すべてのアプリデータを削除する
+- iOSのプライバシー設定からパーソナライズド広告をオプトアウトする
+
+#### ポリシーの変更
+
+本プライバシーポリシーは随時更新される場合があります。変更がある場合は、「最終更新日」を更新してお知らせします。
+
+#### お問い合わせ
+
+本プライバシーポリシーに関するご質問は、以下までお問い合わせください：
+i.ogami.0103@gmail.com
+
+---
+
+## Required App Store Privacy Information / App Store プライバシー情報
+
+### Data Collection / データ収集
+
+**Data Used to Track You / ユーザーのトラッキングに使用されるデータ:**
+- Advertising Data (via AdMob) / 広告データ（AdMob経由）
+
+**Data Linked to You / ユーザーにリンクされるデータ:**
+- None / なし
+
+**Data Not Linked to You / ユーザーにリンクされないデータ:**
+- Device identifiers for advertising / 広告用デバイス識別子
+- Usage data for advertising / 広告用使用状況データ
+
+### App Store Connect Settings / App Store Connect設定
+
+**Privacy Nutrition Label Categories:**
+1. **Identifiers**
+   - Device ID
+   - Used for: Advertising
+   - Tracking: Yes
+
+2. **Usage Data**
+   - Product Interaction
+   - Used for: Advertising
+   - Tracking: Yes
+
+**Does this app collect data?** Yes
+**Is the data used to track users?** Yes (for advertising purposes)
+**Do you or your third-party partners use data for tracking purposes?** Yes (Google AdMob)
